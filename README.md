@@ -26,5 +26,7 @@ Only perform scans on networks and ports you are authorized to test. This tool i
 
 # How to obtain 
 
-git clone [link]  # <-- você vai colocar o link depois aqui
+git clone https://github.com/vhg3301/scripts.git
+cd scripts
+python3 scanner.py
 
