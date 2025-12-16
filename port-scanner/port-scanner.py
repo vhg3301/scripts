@@ -1,6 +1,7 @@
 # A simple Port Scanner 
 # Author: Vitor Gabriel
 # Features: TCP/UDP scanning, service identification, firewall detection and multithreading 
+# This project is only to learn more about how a scanner works
 
 from concurrent.futures import ThreadPoolExecutor
 import socket
